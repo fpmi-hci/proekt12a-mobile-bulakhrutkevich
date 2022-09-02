@@ -1,6 +1,6 @@
-Project Name: BulakhRutkevichKozunov. __
-Description: Wonderful IT project for everyone. __
-Installation: Download and click install. __
-Sub modules: www.link.com. __
-Usage: Just enjoy. __
-Contributing: Artsiom Bulakh, Rodion Rutkevich< Alexey Kozunov. __
+Project Name: BulakhRutkevichKozunov. <br>
+Description: Wonderful IT project for everyone. <br>
+Installation: Download and click install. <br>
+Sub modules: www.link.com. <br>
+Usage: Just enjoy. <br>
+Contributing: Artsiom Bulakh, Rodion Rutkevich, Alexey Kozunov. <br>
